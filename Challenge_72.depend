@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641485921 source:d:\c_programming\projects\challenge_72\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
